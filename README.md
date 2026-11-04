@@ -1,7 +1,7 @@
 <div align="center">
 <img src="./terminal.svg" width="720" alt="Terminal: whoami - Desarrollador Full-Stack, Laravel y PHP, Pereira, Colombia" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=620&height=50&lines=Del+commit+al+deploy;Laravel+%7C+PHP+%7C+React+%7C+MySQL;APIs+REST+%7C+E-commerce;composer+require+soluciones" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=250&color=39FF14&center=true&vCenter=true&width=620&height=50&lines=Del+commit+al+deploy,+sin+sustos;Laravel+%7C+PHP+%7C+React+%7C+MySQL+%7C+Redis;APIs+REST+%7C+E-commerce+%7C+Apps+empresariales;composer+require+soluciones" alt="Typing SVG" />
 
 ### 🚀 Construyo aplicaciones que resuelven procesos reales de negocio
 
@@ -28,7 +28,12 @@ $ whoami
 ## 🛠️ `stack --list`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,tailwind,html,css,mysql,redis,aws,cloudflare,git,github,vite,nodejs" alt="Tech stack" />
+  <b>Backend</b><br>
+  <img src="https://skillicons.dev/icons?i=php,laravel,mysql,redis" alt="PHP, Laravel, MySQL, Redis" /><br><br>
+  <b>Frontend</b><br>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css" alt="React, TypeScript, JavaScript, Tailwind, HTML, CSS" /><br><br>
+  <b>Herramientas &amp; Nube</b><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vite,nodejs,aws,cloudflare" alt="Git, GitHub, Vite, Node.js, AWS, Cloudflare" />
 </p>
 
 | Área | Tecnologías |
@@ -62,12 +67,7 @@ $ whoami
 ## 📊 `github --stats`
 
 <p align="center">
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NicolasDotCom&theme=github_dark" alt="GitHub stats" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NicolasDotCom&theme=github_dark" alt="Repos por lenguaje" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=NicolasDotCom&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=NicolasDotCom&theme=github-dark-blue&hide_border=true" alt="GitHub Streak: racha de contribuciones" />
 </p>
 
 ---
@@ -123,10 +123,22 @@ $ contacto --list
 | 🐙 **GitHub** | [github.com/NicolasDotCom](https://github.com/NicolasDotCom) |
 | 📍 **Ubicación** | Pereira, Risaralda - Colombia 🇨🇴 |
 
+---
+
+## 🐍 `snake --eat`
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NicolasDotCom/NicolasDotCom/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NicolasDotCom/NicolasDotCom/output/github-snake.svg" />
+    <img alt="Serpiente comiéndose la cuadrícula de contribuciones" src="https://raw.githubusercontent.com/NicolasDotCom/NicolasDotCom/output/github-snake.svg" />
+  </picture>
+</p>
+
 <br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=NicolasDotCom&style=flat&color=39ff14&label=visitantes" alt="Contador de visitas" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0D1117&text=Gracias%20por%20visitar&fontColor=39FF14&fontSize=20" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:39FF14,100:00E5FF&text=Gracias%20por%20visitar&fontColor=0D1117&fontSize=20" alt="Gracias por visitar" />
