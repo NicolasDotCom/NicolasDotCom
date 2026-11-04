@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="196" viewBox="0 0 720 196" role="img" aria-label="Terminal: whoami - Desarrollador Full-Stack, Laravel y PHP, Pereira, Colombia">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#161B22"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="sheen" x1="-0.6" y1="0" x2="0" y2="0">
+      <stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#FFFFFF" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+      <animate attributeName="x1" values="-0.8;1.2" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="-0.2;1.8" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <clipPath id="win">
+      <rect x="0" y="0" width="720" height="196" rx="14"/>
+    </clipPath>
+    <style>
+      .mono { font-family: Consolas, "Cascadia Mono", "Courier New", monospace; }
+      .prompt { fill: #39FF14; font-size: 18px; font-weight: 700; }
+      .cmd { fill: #C9D1D9; font-size: 18px; }
+      .out { fill: #C9D1D9; font-size: 17px; }
+      .arrow { fill: #39FF14; font-size: 17px; font-weight: 700; }
+      .title { fill: #8B949E; font-size: 13px; }
+    </style>
+  </defs>
+
+  <g clip-path="url(#win)">
+    <rect x="0" y="0" width="720" height="196" fill="url(#bg)"/>
+    <rect x="0" y="0" width="720" height="40" fill="#1B2129"/>
+    <rect x="0" y="39" width="720" height="1" fill="#30363D"/>
+
+    <circle cx="26" cy="20" r="6" fill="#FF5F56"/>
+    <circle cx="48" cy="20" r="6" fill="#FFBD2E"/>
+    <circle cx="70" cy="20" r="6" fill="#27C93F"/>
+    <text class="mono title" x="360" y="25" text-anchor="middle">nicolas@dev — perfil.sh</text>
+
+    <text class="mono prompt" x="32" y="82">nicolas@dev:~$<tspan class="cmd" dx="10">whoami</tspan></text>
+
+    <text class="mono out" x="32" y="118"><tspan class="arrow">&gt;</tspan><tspan dx="10">Desarrollador Full-Stack &#183; Laravel &amp; PHP</tspan></text>
+
+    <text class="mono out" x="32" y="152"><tspan class="arrow">&gt;</tspan><tspan dx="10">Pereira, Colombia</tspan><tspan fill="#39FF14" font-weight="700">&#9612;<animate attributeName="opacity" values="1;0;1" dur="1.2s" repeatCount="indefinite"/></tspan></text>
+
+    <rect x="0" y="0" width="720" height="196" fill="url(#sheen)"/>
+  </g>
+
+  <rect x="0.5" y="0.5" width="719" height="195" rx="14" fill="none" stroke="#30363D"/>
+</svg>

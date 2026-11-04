@@ -1,14 +1,7 @@
 <div align="center">
-<pre>
-███╗   ██╗██╗ ██████╗ ██████╗ ██╗      █████╗ ███████╗
-████╗  ██║██║██╔════╝██╔═══██╗██║     ██╔══██╗██╔════╝
-██╔██╗ ██║██║██║     ██║   ██║██║     ███████║███████╗
-██║╚██╗██║██║██║     ██║   ██║██║     ██╔══██║╚════██║
-██║ ╚████║██║╚██████╗╚██████╔╝███████╗██║  ██║███████║
-╚═╝  ╚═══╝╚═╝ ╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═╝╚══════╝
-</pre>
+<img src="./terminal.svg" width="720" alt="Terminal: whoami - Desarrollador Full-Stack, Laravel y PHP, Pereira, Colombia" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=620&height=50&lines=Desarrollador+Full-Stack;PHP+%7C+Laravel+%7C+React;APIs+REST+%7C+E-commerce;Ingeniero+de+Software" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=620&height=50&lines=Del+commit+al+deploy;Laravel+%7C+PHP+%7C+React+%7C+MySQL;APIs+REST+%7C+E-commerce;composer+require+soluciones" alt="Typing SVG" />
 
 ### 🚀 Construyo aplicaciones que resuelven procesos reales de negocio
 
