@@ -118,7 +118,7 @@ $ contacto --list
 
 | Canal | Enlace |
 |---|---|
-| 📧 **Email** | [t.nicolassanchez@gmail.com](mailto:tnicolassanchez@gmail.com) |
+| 📧 **Email** | [t.nicolassanchez@gmail.com](mailto:t.nicolassanchez@gmail.com) |
 | 💼 **LinkedIn** | [linkedin.com/in/nicolasdotcom](https://www.linkedin.com/in/nicolasdotcom) |
 | 🐙 **GitHub** | [github.com/NicolasDotCom](https://github.com/NicolasDotCom) |
 | 📍 **Ubicación** | Pereira, Risaralda - Colombia 🇨🇴 |
